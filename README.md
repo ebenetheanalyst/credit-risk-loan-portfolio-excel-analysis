@@ -38,6 +38,8 @@ The dashboard provides an interactive overview of:
 - Default Rate by Location
 - Loan Officer Default Patterns
 - Default Rate across Credit Score and DTI Bands
+  <img width="6382" height="3871" alt="image" src="https://github.com/user-attachments/assets/39d3f1e2-67b8-44d6-b03c-e6eb4299153b" />
+
 
 ## Tools Used
 - Microsoft Excel
